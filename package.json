@@ -1,0 +1,31 @@
+{
+  "name": "db-terminal",
+  "version": "1.0.0",
+  "description": "An adapter which can be used to perform various operations on multiple databases with the same javascript code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asaye/db-terminal"
+  },
+  "keywords": [
+    "Adapter",
+    "Connector",
+    "Database driver",
+    "Database",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB"
+  ],
+  "author": {
+    "name": "Asaye Dilbo",
+    "email": "asayechemeda@yahoo.com"
+  },
+  "readme": "README.md",
+  "bugs": {
+    "url": "https://github.com/Asaye/db-terminal/issues"
+  },
+  "license": "ISC"
+}
